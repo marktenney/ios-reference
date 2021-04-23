@@ -1,10 +1,10 @@
 // Swift Cheat Sheet
 // Data Types: Int || Float || Double || Bool || String || Array || Dictionary
 
-let integers: Int = 1
-let floatingPoint: Float = 1.00
-let double: Double = 3.1415926
-let checkYesOrNo: Bool = true
+let wholeNumberInteger: Int = 1
+let floatingPointNumber: Float = 1.00
+let doubleFloatingPoint: Double = 3.1415926
+let booleanValue: Bool = true
 let textString: String = "Hello, world!"
 
 // Defining Arrays
